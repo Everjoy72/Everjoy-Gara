@@ -19,8 +19,8 @@ I combine skills in **data analytics, cybersecurity, IT infrastructure, and busi
 
 ### 💻 Tech Stack
 
-* **Languages:** Python, SQL, JavaScript, HTML, CSS, R
-* **Frameworks & Tools:** React, TensorFlow, Tableau, Power BI, Salesforce, Trello, Zabbix, Grafana
+* **Languages:** Python, SQL, Java, HTML, CSS, R
+* **Frameworks & Tools:** React, TensorFlow, Tableau, Salesforce, Trello, Zabbix
 * **Domains:** Cybersecurity, Business Intelligence, IT Infrastructure, SEO
 
 ---
