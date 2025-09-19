@@ -36,18 +36,18 @@ I combine skills in **data analytics, cybersecurity, IT infrastructure, and busi
 
 ### 📊 GitHub Stats
 
-![Everjoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=everjoygara\&show_icons=true\&theme=radical)
+![Everjoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Everjoy72\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=everjoygara\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Everjoy72\&layout=compact\&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=everjoygara\&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Everjoy72\&theme=radical)
 
 ---
 
 ### 📫 Let’s Connect
 
 * ✉️ Email: **[garaeverjoy72@gmail.com](mailto:garaeverjoy72@gmail.com)**
-* 🌐 Portfolio: [everjoygara.github.io](#)
+* 🌐 Portfolio: [Everjoy72.github.io](#)
 * 💼 LinkedIn: [linkedin.com/in/everjoygara](#)
 
 ---
