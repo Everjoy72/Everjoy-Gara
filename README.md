@@ -1,6 +1,4 @@
-# Everjoy-Gara
-
-# Hi there 👋, I'm Everjoy Gara
+                      # Hi there 👋, I'm Everjoy Gara
 
 A passionate **IT & Business Intelligence Professional** based in Cape Town, South Africa.
 I combine skills in **data analytics, cybersecurity, IT infrastructure, and business management** to deliver impactful solutions.
