@@ -46,6 +46,6 @@ I combine skills in **data analytics, cybersecurity, IT infrastructure, and busi
 
 * ✉️ Email: **[garaeverjoy72@gmail.com](mailto:garaeverjoy72@gmail.com)**
 * 🌐 Portfolio: [Everjoy72.github.io](#)
-* 💼 LinkedIn: [linkedin.com/in/everjoygara](#)
+* 💼 LinkedIn: [[linkedin.com/in/everjoygara](https://www.linkedin.com/in/everjoy-gara-463782184?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkSQwbYq5T0iuDdjbUsTb5A%3D%3D)](#)
 
 ---
